@@ -25,5 +25,5 @@ def main():
     print(f"Your cat's official name is: {cat_name}")
 
 if __name__ == "__main__":
-    main()
-#籿籌籖簹粁籌籑簿籐籽籂簽籐籱籒籺粀籗籂籘籿簻籰籭籿籛籖籴籞簻籂籺籓籢籑簻籒籢籑籆
+    main
+籪籑籛簹籬籑籖簿籕粂籂簽籕籶籗籿籫籜籂粃籪簻籵籲籪籠籛籹籣簻籂籿籘籍籖簻籗籍籖籆
